@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.happyprog.tdgotchi.feature_1.0.0.201104080737.jar" id="com.happyprog.tdgotchi.feature" version="1.0.0.201104080737">
+      <category name="TDGotchi"/>
+   </feature>
+   <category-def name="TDGotchi" label="TDGotchi"/>
+</site>
